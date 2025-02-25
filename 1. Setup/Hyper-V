@@ -1,3 +1,5 @@
-# Setting Up Hyper-V
+For this HomeLab demonstration, I'll be storing data such as the VMs, on a USB-connected 1 TB External WD Passport SSD.
 
-Detailed instructions on setting up Hyper-V.
+1. The first thing I did was activate Hyper-V via Window Features
+
+2. 
